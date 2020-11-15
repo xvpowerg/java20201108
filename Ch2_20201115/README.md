@@ -6,7 +6,6 @@
 * Ch2_6  Arrays.fill sort
 * Ch2_7 Arrays.binarySearch
 * Ch2_8 二維陣列
-* Ch2_9
-* Ch2_10
-* Ch2_11
-* Ch2_12
+* Ch2_9 二維陣列宣告
+* Ch2_10 二維陣列練習題
+* Ch2_11 封箱
