@@ -15,8 +15,9 @@ public class Ch6_1 {
     修飾詞 只能開放不能封閉
     回傳值 如果是基本型必須一樣
     回傳值 如果是非基本型可以是子類
-    函數名稱跟參數必須一樣
-    例外拋出 可以不拋出 或 拋出子類    
+    函數名稱跟參數類型必須一樣
+    例外拋出 可以不拋出 或 拋出子類     非必要例外檢測無限制
+    
     */
     public int test1(String n) throws NullPointerException{
 	return 0;
