@@ -15,5 +15,15 @@
   * Ch1_13  [for loop考題](https://github.com/xvpowerg/java20201108/blob/main/Ch1_20201108/Ch1_13.java)   
   * Ch1_14  [for loop break cintinue](https://github.com/xvpowerg/java20201108/blob/main/Ch1_20201108/Ch1_14.java)   
   * Ch1_15  [break cintinue標籤](https://github.com/xvpowerg/java20201108/blob/main/Ch1_20201108/Ch1_15.java)   
-
-  
++ Ch2
+  * Ch2_1 [while](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_1.java)
+  * Ch2_2 [Array](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_2.java)
+  * Ch2_3 [Arrayv宣告](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_3.java)
+  * Ch2_4 [Array預設值](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_4.java)
+  * Ch2_5 [Array常用函數](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_5.java)
+  * Ch2_6 [Array 排序](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_6.java)
+  * Ch2_7 [binarySearch](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_7.java)
+  * Ch2_8 [二維陣列](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_8.java)
+  * Ch2_9 [多維陣列 while](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_9.java)
+  * Ch2_10 [多維陣列常見錯誤](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_10.java)
+  * Ch2_11 [封箱類型](https://github.com/xvpowerg/java20201108/blob/main/Ch2_20201115/Ch2_11.java)
